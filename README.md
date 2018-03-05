@@ -1,10 +1,10 @@
-# AI_Codes
+# Interesting AI Codes
 Some interesting artificial intelligence implementations developed by me during AI labs in my institute. This will be updated throughout the semester. The detailed problems are stated in their respective directories.
-* State Space Search Problems
-* Hill-Climbing and Variable Neighbourhood search descent: Solving K-SAT problems
-* Genetic Algorithm Problem: Travelling Salesman
-* Path Finding: A* on Visibility Graph
-* Constraint Satisfaction Problem: Sudoku Solver
-* K-means clustering using MLE
+* Week 1: State Space Search Problems
+* Week 2: Hill-Climbing and Variable Neighbourhood search descent: Solving K-SAT problems
+* Week 3: Genetic Algorithm Problem: Travelling Salesman
+* Week 4: Path Finding: A* on Visibility Graph
+* Week 5: Constraint Satisfaction Problem: Sudoku Solver
+* Week 6: K-means clustering using MLE
 
 More to be added soon
