@@ -7,5 +7,5 @@ Some interesting artificial intelligence implementations developed by me during 
 * Week 5: Constraint Satisfaction Problem: Sudoku Solver
 * Week 6: K-means clustering using MLE
 * Week 7: Neural Network(Artificial Neural Network and Hopfield Networks)
-* Week 8: Decision Tree Problem
+* Week 8: Decision Tree Problem <br/>
 More to be added soon
