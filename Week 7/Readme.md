@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statements
 
 ## Problem 1
 Construct an ANN with one layer of hidden layer neural network and approximate the function of a given set of points.
