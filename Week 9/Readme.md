@@ -9,8 +9,8 @@ Identify appropriate time needed to wash the load, given the dirtiness and volum
 
 The rule table consists of 12 rules.  For example, the entry in the second row and the third column of the table specifies the rule:
 
-If    load volume     is    medium load
-And    load dirtiness    is    lightly dirty
+If    load volume     is    medium load<br />
+And    load dirtiness    is    lightly dirty<br />
 Then    washing time    is    medium time
 
 
