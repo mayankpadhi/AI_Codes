@@ -10,4 +10,4 @@ Some interesting artificial intelligence implementations developed by me during 
 * Week 8: Decision Tree Problem 
 * Week 9: Fuzzy Logic Washing Machine <br/>
 
-More to be added soon :)
+Final Project: Implementing the SOKOBAN Solver.
